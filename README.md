@@ -53,3 +53,40 @@ Now let's create and activate a new environment with a specific Python version (
 If everything goes as expected, the environment name will appear in parentheses, indicating that it is activated.
 
 ## Install Packages using *'pip'* and *'conda'* commands
+
+Now let's run *'conda'* and *'pip'* commands to install the packages used in the notebook.
+
+### Some common packages for Data Science and Machine Learning
+
+> conda install scipy==1.6.2
+
+> pip install numpy
+
+> pip install pandas
+
+> pip install seaborn
+
+> pip install matplotlib
+
+> pip install statsmodels
+
+> pip install sklearn
+
+
+### Packages for DeepAR model
+
+> pip install mxnet
+
+> pip install --upgrade numpy
+
+> pip install gluonts
+
+### Library for Prophet model
+
+> conda install libpython m2w64-toolchain -c msys2
+
+> conda install pystan -c conda-forge
+
+> conda install -c anaconda ephem
+
+> conda install -c conda-forge prophet
