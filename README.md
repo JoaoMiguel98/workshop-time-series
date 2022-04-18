@@ -2,7 +2,7 @@
 
 The environment setup was done using the Windows operating system.
 To do this, students must have the following tools installed:
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/) - Don't forget to check the 'Add to Path' option during the installation.
 - [Anaconda](https://www.anaconda.com/)
 
 The *'pip'* and *'conda'* commands, from Python and Anaconda, respectively, allow us to install the necessary packages for this workshop from the terminal (cmd in Windows). To use these commands, we have to add the Python and Anaconda paths to the Windows environment:
@@ -17,7 +17,10 @@ Now you can add a new path to the Windows environment. Following there are the p
 > Note: Bearing in mind that my Windows username is 'joao.miguel', you will have to use your username instead, and verify that the path exists (and that both tools were installed correctly).
 
 2. Add Python to the Path variable
-<img src="https://user-images.githubusercontent.com/32846089/163835618-d4d281ff-210a-4619-960d-fbc95fe1567c.png" alt="Python Path" width="400"/>
+
+If the 'Add to Path' option was checked during the installation of Python, this step will probably not be necessary.
+<img src="https://user-images.githubusercontent.com/32846089/163843784-4713bbd5-6847-492d-9df7-af1574a8c241.png" alt="Python Path" width="400"/>
+
 3. Add Anaconda to the Path variable
-4. <img src="https://user-images.githubusercontent.com/32846089/163835982-c002cf65-16ed-4e17-b6a8-17f286e6269c.png" alt="Anaconda Paths" width="400"/>
+<img src="https://user-images.githubusercontent.com/32846089/163835982-c002cf65-16ed-4e17-b6a8-17f286e6269c.png" alt="Anaconda Paths" width="400"/>
 
