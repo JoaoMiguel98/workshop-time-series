@@ -90,3 +90,16 @@ Now let's run *'conda'* and *'pip'* commands to install the packages used in the
 > conda install -c anaconda ephem
 
 > conda install -c conda-forge prophet
+
+## Open Notebook with Jupyter Lab
+
+Install Jupyter Lab using the *'pip'* command:
+
+> pip install jupyterlab
+
+Now run Jupyter Lab using the following code insiste the 'workshop-students' folder in cmd:
+
+> jupyter-lab
+
+By now, a local jupyter server will open on your browser. We are set to go!
+
